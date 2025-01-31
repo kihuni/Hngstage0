@@ -23,10 +23,10 @@
 
 ## Deployment
 
-This project is deployed on Railway. You can access the live API at `https://hng-stage0-production.up.railway.app/api/`
+This project is deployed on Pythonanywhere. You can access the live API at `(https://kihuni.pythonanywhere.com/api/)`
 
 
 ## HNG Python Developers
 
-Looking to hire skilled Python developers? Check out [HNG's Python Developer Talent Pool](https://hng.tech/hire/python-developers) for vetted candidates.
+Would you be interested in hiring skilled Python developers? For vetted candidates, check out [HNG's Python Developer Talent Pool](https://hng.tech/hire/python-developers).
 
