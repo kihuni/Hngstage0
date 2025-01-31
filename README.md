@@ -23,7 +23,7 @@
 
 ## Deployment
 
-This project is deployed on Pythonanywhere. You can access the live API at `(https://kihuni.pythonanywhere.com/api/)`
+This project is deployed on Pythonanywhere. You can access the live API [here](https://kihuni.pythonanywhere.com/api/)
 
 
 ## HNG Python Developers
